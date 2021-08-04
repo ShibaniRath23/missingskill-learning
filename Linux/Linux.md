@@ -1,4 +1,5 @@
 # **History of Linux**
+  ![Backgound History](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/Linux%20History.png)
   * Linux is developed by 'LINUS TORVALDS' in 1991.
 ## **Introduction to Linux**
 
