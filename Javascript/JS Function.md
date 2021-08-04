@@ -7,7 +7,7 @@
 ## **Properties of a function**
 * can be an object.
 * can be value in array.
-* Can be `assigned to variable`
+* Can be `assigned to variable`.
 * Can also `return another function` , if no variable or value is returned from function it returns `undefined`.
 * Can be `pass as parameter`, if we don't pass argument while calling a parameterized function then by default is `undefined`.
 
@@ -145,6 +145,29 @@ User { firstName: 'BANAJA', lastName: 'MISHRA' }
 User { firstName: 'LITAN', lastName: 'KAR' }
 ```
 
+## **Prototypes**
+
+- Array
+- Object
+- Function
+- String
+- Boolean
+- Number
+- RegExp
+- Date
+- Math
+
+
+ 
+**Date**
+
+* It returns the date like day, month, year.
+   ex:  getDate(), getHours(), getMonth(),getMinutes() etc.
+
+**Math**
+
+* It is used for mathematical operation.
+   ex:  random(), floor(), max(), min(), sqrt(),etc.
 
 
 

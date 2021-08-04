@@ -251,7 +251,24 @@ console.log("1", stack);//{node:100,php:200,go:300,es:[5,6,8,9,10]}
 var tech=stack;
 tech.go=10;
 console.log("2",stack.go);//10
+```
 
+### **Hoisting**
+* ‘Var’ variable it always get hoisted on top in fuctional scope only **'variable'** is hoisting not its value.
+*  At runtime **'variable'** are moves to the top that is nothing but a hoisting.
+* **'let'** and **'const'** are not get hoisted because both can not be define more than one time.
+
+Ex:
+```
+var x = 90;
+    function f1(){
+        x = 5; 	//hoisting      assign to a global var x		
+ }
+```   
+Ex:
+```	x = 50;
+	console.log(x); 		//output:50<br>
+	var x; //here x can be hoisted
 
 
 

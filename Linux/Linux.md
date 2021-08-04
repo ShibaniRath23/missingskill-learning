@@ -3,6 +3,7 @@
   * Linux is developed by 'LINUS TORVALDS' in 1991.
 ## **Introduction to Linux**
 
+  ![Kernel](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/KERNEL.png)
   * Linux is a kernel (core or heart of the operating system).It is the inntermediary between Software and Hardware.Addition of some other components to the linux kernel also refers to the linux operating system as a whole.
   * Linux kernel is released under the GNU General Public License version 2.
   * Latest stable version of kernel is "The Linux Kernel 5.7".
@@ -29,7 +30,7 @@
 # **Basic Linux Command**
   * commands are nothing but a specific  instruction given to the computer application to perform some kind of task or function.
 
-  ## Table
+  ## **Table**
 
    |Command | Description|
    |--------|------------|
@@ -78,3 +79,5 @@
 |/lib|Library are stored here.|
 |/opt|Contains third party application software.|
 |/proc|Contains system level information.|
+
+![File system](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/LINUX%20FILE%20SYSTEM.png)
