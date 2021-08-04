@@ -8,8 +8,8 @@
       - Other Distribution
       - Basic Commands
       - Linux File System
-### 2.Git
-### 3.Basic Building Block of Web Application Development 
+### 2.[Git](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Git/Git.md)
+### 3.[Basic Building Block of Web Application Development](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Building%20Blocks%20Of%20Web%20Application%20Development/Web%20application%20development.md)
       - Software Languages
       - IP Address
       - Web port
