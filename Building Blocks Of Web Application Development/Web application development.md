@@ -128,7 +128,7 @@
 ## 8.**Domain & Hosting**
  A domain is the unique name of a website. Hosting is also known as web hosting.Web hosting is an online service that enables you to publish your website or web application on the internet.
 
- 
+![ Web Development](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/Web%20Devlopment.png) 
 
 
 
