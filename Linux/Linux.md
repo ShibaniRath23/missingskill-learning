@@ -1,7 +1,7 @@
 # **History of Linux**
   ![Backgound History](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/Linux%20History.png)
   * Linux is developed by 'LINUS TORVALDS' in 1991.
-## **Introduction to Linux**
+# **Introduction to Linux**
 
   ![Kernel](https://github.com/ShibaniRath23/missingskill-learning/blob/master/Images/KERNEL.png)
   * Linux is a kernel (core or heart of the operating system).It is the inntermediary between Software and Hardware.Addition of some other components to the linux kernel also refers to the linux operating system as a whole.

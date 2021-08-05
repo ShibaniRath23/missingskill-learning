@@ -21,7 +21,7 @@ function nameOfFunction () {
     // function body   
 }
 ```
-## **Function call & declaration**
+## **Function call & Declaration**
 ```js
 // declaring a function
 function wave() {

@@ -28,7 +28,7 @@ example
         const recieve_data = JSON.parse(send_data);// use for receiving data
 ```
 
-### **Template Literals**
+## **Template Literals**
  * Template literals are string literals allowing embedded expressions using {`${}`}.
    Ex:
 
@@ -37,8 +37,8 @@ var firstName = "Shibani";
 var lastName = "Rath";
 console.log(`${firstName} ${lastName}`);
 ```
-## ** Destructuring**
-* It is used to assign elements of array/object into variable</b>
+## **Destructuring**
+*  It is used to assign elements of array/object into variable</b>
 
 ```Js
 // Array destructuring
@@ -55,7 +55,7 @@ var user = {
 var {id,name} = user;
 ```
 ## **Spread Operator**
- It is used with three dots(...) which targets the entire values in the particular variable.
+ * It is used with three dots(...) which targets the entire values in the particular variable.
 
 ```Js
 let colors = ['Red', 'Yellow'];  
@@ -63,7 +63,7 @@ let newColors = [...colors, 'Violet', 'Orange', 'Green'];
 console.log(newColors);  
 ```
 ## **Rest Operator**
-It is also same as Spread operator that can be used in destructuring.
+ * It is also same as Spread operator that can be used in destructuring.
 
 ```Js
 var colors = [ "Blue", "Green", "Yellow",  "Red"];    

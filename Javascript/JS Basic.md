@@ -165,11 +165,11 @@ Example
 
  **Functional Scope** : Each program or application  can be called as functional scope(global functional scope). And each function within program  have their own functinal scope(local functional scope) which exist untill the function exists. `var` keyword has functional scope.
 
-### 1.Global Scope:
+### 1.**Global Scope:**
   A variable is in the Global scope if it's defined outside of a function.Variables inside the Global scope can be accessed and altered in any other scope.
 
 
-### 2.Local Scope:
+### 2.**Local Scope:**
   Variables declared within a JavaScript function, become LOCAL to the function.
    local variables defined within functions,can only be used within that function in which they are defined its scope exist only within that function not outside of that function.
 
@@ -201,9 +201,9 @@ example:
  ```js
  output:18
  ```
-## Tech Debt
+## **Tech Debt**
 
-### 1.Concat & Addition:
+### 1.**Concat & Addition:**
 
 JavaScript uses '+' operator for both addition and concatenation. Simply put numbers will be added and Strings will be concatenated. JS interpreter works from left to right.
 
@@ -214,7 +214,7 @@ var z = "10";
 
 var result = x + y + z; // Result will be 2010  
 ```
-### 2.NaN:
+### 2.**NaN:**
 
 `NaN` is a reserved keyword to indicate that number is not legal number.
 
@@ -253,7 +253,7 @@ tech.go=10;
 console.log("2",stack.go);//10
 ```
 
-### **Hoisting**
+## **Hoisting**
 * ‘Var’ variable it always get hoisted on top in fuctional scope only **'variable'** is hoisting not its value.
 *  At runtime **'variable'** are moves to the top that is nothing but a hoisting.
 * **'let'** and **'const'** are not get hoisted because both can not be define more than one time.
